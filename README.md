@@ -1,7 +1,5 @@
 ### Hi!!!!!!
 My name is Artur and I am a student at AGH in Kraków. Here are some facts about me:
-**Artwojciech/Artwojciech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on an interesting snake project.
 - 🌱 I’m currently learning graphics design.
