@@ -15,4 +15,5 @@ Here you have a link to my github pages: https://artwojciech.github.io/
 
 
 Link to the papers with code repository: https://github.com/Artwojciech/Retro-Learning-Environment
+
 Article on papers with code: https://paperswithcode.com/paper/playing-snes-in-the-retro-learning
