@@ -10,3 +10,9 @@ My name is Artur and I am a student at AGH in Kraków. Here are some facts about
 - ⚡ Fun fact: i am reaaaaly tall.
 
 Here you have a link to my github pages: https://artwojciech.github.io/
+
+
+
+
+Link to the papers with code repository: https://github.com/Artwojciech/Retro-Learning-Environment
+Article on papers with code: https://paperswithcode.com/paper/playing-snes-in-the-retro-learning
